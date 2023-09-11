@@ -19,8 +19,7 @@ Choose the version you want to use. `docker-sudo.zsh` will execute the docker wi
 |`dk`|`docker`|
 |`dkc`|`docker container`|
 |`dkcls`|`docker container ls`|
-|`dkcll`|`docker container ls -l`|
-|`dkcla`|`docker container ls -la`|
+|`dkcla`|`docker container ls -a`|
 |`dkcrm`|`docker container rm`|
 |`dkccl`|`docker container rm -f $(docker ps -aq)`|
 |`dkckl`|`docker container kill`|
@@ -41,4 +40,3 @@ Choose the version you want to use. `docker-sudo.zsh` will execute the docker wi
 |`dkpl`|`docker pull`|
 |`dkp`|`docker push`|
 |`dkb`|`docker build`|
-
